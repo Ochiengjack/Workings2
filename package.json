@@ -1,0 +1,22 @@
+{
+  "name": "firstgit",
+  "version": "1.0.0",
+  "description": "this is my first package",
+  "main": "bootstrap.min.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ochiengjack/Workings2.git"
+  },
+  "keywords": [
+    "Artists"
+  ],
+  "author": "Jackson",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Ochiengjack/Workings2/issues"
+  },
+  "homepage": "https://github.com/Ochiengjack/Workings2#readme"
+}
