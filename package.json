@@ -4,6 +4,7 @@
   "description": "this is my first package",
   "main": "bootstrap.min.js",
   "scripts": {
+    "Build": "gulp build"
     "test": "echo"
   },
   "repository": {
